@@ -106,9 +106,7 @@ br.com.lucasmarcatto.microrslucasmarcartto
 
 ### Demonstração curta (até 30 segundos)
 
-[
 https://github.com/user-attachments/assets/f5a3e849-2b49-448e-af5d-286c1aa495de
-]  
 
 ### Vídeo explicativo (5 a 10 minutos)
 
