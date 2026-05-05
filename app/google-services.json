@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "371735001568",
+    "project_id": "microredesocial-lucasmarcatto",
+    "storage_bucket": "microredesocial-lucasmarcatto.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:371735001568:android:e56318c630a92a31b9d385",
+        "android_client_info": {
+          "package_name": "br.com.lucasmarcatto.microrslucasmarcartto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoW9Rn6uP0-KDRawO0uAmYXz1fXrBCy08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
